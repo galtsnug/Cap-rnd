@@ -70,7 +70,7 @@ int main()
 		b = 0;
 		cin.clear();
 		cin.ignore(numeric_limits<streamsize>::max(), '\n');
-		sleep(1);
+		Sleep(1);
 	}
 	return 0;
 }

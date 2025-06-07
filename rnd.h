@@ -1,5 +1,4 @@
-#include <unistd.h>
-#include <cstdlib>
+#include <windows.h>
 #include <ctime>
 #include <chrono>
 #include <thread>
